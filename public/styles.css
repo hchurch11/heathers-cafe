@@ -4317,11 +4317,11 @@ video {
 }
 
 .bg-coffeeLove{
-  background-image: url('/Users/heather/Coding-Projects/tailwind-cafe-project/public/img/jessica-lewis-Am2kjOEKADs-unsplash.jpg');
+  background-image: url('./public/img/jessica-lewis-Am2kjOEKADs-unsplash.jpg');
 }
 
 .bg-coffeeBeans{
-  background-image: url('/Users/heather/Coding-Projects/tailwind-cafe-project/public/img/nordwood-themes-ivP3TYdLvw0-unsplash.jpg');
+  background-image: url('./public/img/nordwood-themes-ivP3TYdLvw0-unsplash.jpg');
 }
 
 .from-transparent{
@@ -35517,11 +35517,11 @@ video {
   }
 
   .sm\:bg-coffeeLove{
-    background-image: url('/Users/heather/Coding-Projects/tailwind-cafe-project/public/img/jessica-lewis-Am2kjOEKADs-unsplash.jpg');
+    background-image: url('./public/img/jessica-lewis-Am2kjOEKADs-unsplash.jpg');
   }
 
   .sm\:bg-coffeeBeans{
-    background-image: url('/Users/heather/Coding-Projects/tailwind-cafe-project/public/img/nordwood-themes-ivP3TYdLvw0-unsplash.jpg');
+    background-image: url('./public/img/nordwood-themes-ivP3TYdLvw0-unsplash.jpg');
   }
 
   .sm\:from-transparent{
@@ -66601,11 +66601,11 @@ video {
   }
 
   .md\:bg-coffeeLove{
-    background-image: url('/Users/heather/Coding-Projects/tailwind-cafe-project/public/img/jessica-lewis-Am2kjOEKADs-unsplash.jpg');
+    background-image: url('./public/img/jessica-lewis-Am2kjOEKADs-unsplash.jpg');
   }
 
   .md\:bg-coffeeBeans{
-    background-image: url('/Users/heather/Coding-Projects/tailwind-cafe-project/public/img/nordwood-themes-ivP3TYdLvw0-unsplash.jpg');
+    background-image: url('./public/img/nordwood-themes-ivP3TYdLvw0-unsplash.jpg');
   }
 
   .md\:from-transparent{
@@ -97685,11 +97685,11 @@ video {
   }
 
   .lg\:bg-coffeeLove{
-    background-image: url('/Users/heather/Coding-Projects/tailwind-cafe-project/public/img/jessica-lewis-Am2kjOEKADs-unsplash.jpg');
+    background-image: url('./public/img/jessica-lewis-Am2kjOEKADs-unsplash.jpg');
   }
 
   .lg\:bg-coffeeBeans{
-    background-image: url('/Users/heather/Coding-Projects/tailwind-cafe-project/public/img/nordwood-themes-ivP3TYdLvw0-unsplash.jpg');
+    background-image: url('./public/img/nordwood-themes-ivP3TYdLvw0-unsplash.jpg');
   }
 
   .lg\:from-transparent{
@@ -128769,11 +128769,11 @@ video {
   }
 
   .xl\:bg-coffeeLove{
-    background-image: url('/Users/heather/Coding-Projects/tailwind-cafe-project/public/img/jessica-lewis-Am2kjOEKADs-unsplash.jpg');
+    background-image: url('./public/img/jessica-lewis-Am2kjOEKADs-unsplash.jpg');
   }
 
   .xl\:bg-coffeeBeans{
-    background-image: url('/Users/heather/Coding-Projects/tailwind-cafe-project/public/img/nordwood-themes-ivP3TYdLvw0-unsplash.jpg');
+    background-image: url('./public/img/nordwood-themes-ivP3TYdLvw0-unsplash.jpg');
   }
 
   .xl\:from-transparent{
@@ -159853,11 +159853,11 @@ video {
   }
 
   .\32xl\:bg-coffeeLove{
-    background-image: url('/Users/heather/Coding-Projects/tailwind-cafe-project/public/img/jessica-lewis-Am2kjOEKADs-unsplash.jpg');
+    background-image: url('./public/img/jessica-lewis-Am2kjOEKADs-unsplash.jpg');
   }
 
   .\32xl\:bg-coffeeBeans{
-    background-image: url('/Users/heather/Coding-Projects/tailwind-cafe-project/public/img/nordwood-themes-ivP3TYdLvw0-unsplash.jpg');
+    background-image: url('./public/img/nordwood-themes-ivP3TYdLvw0-unsplash.jpg');
   }
 
   .\32xl\:from-transparent{

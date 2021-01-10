@@ -13,9 +13,9 @@ module.exports = {
 
       backgroundImage: {
         coffeeLove:
-          "url('/Users/heather/Coding-Projects/tailwind-cafe-project/public/img/jessica-lewis-Am2kjOEKADs-unsplash.jpg')",
+          "url('./public/img/jessica-lewis-Am2kjOEKADs-unsplash.jpg')",
         coffeeBeans:
-          "url('/Users/heather/Coding-Projects/tailwind-cafe-project/public/img/nordwood-themes-ivP3TYdLvw0-unsplash.jpg')",
+          "url('./public/img/nordwood-themes-ivP3TYdLvw0-unsplash.jpg')",
       },
     },
   },
